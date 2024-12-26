@@ -1,6 +1,6 @@
 # Next.js Payload App
 
-This is a Next.js application that uses Payload CMS for content management. The app is configured to use SQLite as the database.
+This is a Next.js application that uses Payload CMS for content management. The app is configured to use MongoDB as the database and Vercel Blob for storing images.
 
 ## Getting Started
 
